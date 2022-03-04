@@ -2,7 +2,7 @@
   <h1>Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
  I'm MAIA!</h1>
   <h4>Applicable Mobility ♦ Artificial Intelligence</h4>
-  <p>Building the ones that one day, will show us the future!</p>
+  <p>" Building the ones that one day, will show us the future! "</p>
 </div>
   
 <div align = "center">
