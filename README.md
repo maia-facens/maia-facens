@@ -35,7 +35,7 @@
     </a>
     , or on
     <a href="https://lince.facens.br/maia-mobilidade-aplicada-e-inteligencia-artificial/">
-      <img alt="Site" align="center" width="25px" src="https://cdn-icons.flaticon.com/png/512/3608/premium/3608053.png?token=exp=1646400382~hmac=9f581300e8edf1492755d70a2160c1a3">
+      <img alt="Site" align="center" width="25px" src="https://cdn-icons-png.flaticon.com/512/431/431979.png">
     </a>
   </h4>
 </div>
