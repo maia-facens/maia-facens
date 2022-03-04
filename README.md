@@ -16,7 +16,7 @@
 <div style="display: inline_block"><br>
 <br>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maia-facens&theme=chartreuse-dark&show_icons=ture&count_private=true&hide=stars&include_all_commits=true&icon_color=3EB489&hide_border=true&border_radius=20"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=maia-facens&theme=blueberry&show_icons=ture&count_private=true&hide=stars&include_all_commits=true&hide_border=true&border_radius=20"/>
   <br>
   <img src="http://github-readme-streak-stats.herokuapp.com?user=maia-facens&theme=soft-green&date_format=M%20j%5B%2C%20Y%5D&hide_border=true&type=svg"/>
   <br><br>
